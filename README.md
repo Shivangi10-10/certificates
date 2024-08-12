@@ -9,6 +9,9 @@ Welcome to my collection of certificates from hackathons, courses, and technical
 
 2. [TVS Credit Hackathon on Unstop](tvs.pdf)
    - Engaged in innovative problem-solving for the financial technology sector
+     
+3. [Flipkart Grid 5.0 - Level 1.2](grid.pdf)
+   - Successfully completed Level 1.2 of Flipkart's prestigious technology hackathon
 
 ## 📚 Course Certificates
 
