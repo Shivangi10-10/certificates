@@ -10,8 +10,8 @@ Welcome to my collection of certificates from hackathons, courses, and technical
 2. [TVS Credit Hackathon on Unstop](tvs.pdf)
    - Engaged in innovative problem-solving for the financial technology sector
      
-3. [Flipkart Grid 5.0 - Level 1.2](grid.pdf)
-   - Successfully completed Level 1.2 of Flipkart's prestigious technology hackathon
+3. [Flipkart Grid 5.0](grid.pdf)
+   - Successfully participated in Flipkart's prestigious technology hackathon
 
 ## 📚 Course Certificates
 
@@ -33,10 +33,23 @@ Welcome to my collection of certificates from hackathons, courses, and technical
 6. [Artificial Intelligence and Machine Learning](aiml.png)
    - Explored the fundamentals of AI and ML technologies
 
+7. [Azure Certificate](azure.png)
+   - Gained knowledge in Microsoft Azure cloud services and solutions
+
+8. [Go Programming Language](go.png)
+   - Learned the Go programming language fundamentals and best practices
+
+9. [MapReduce](mapreduce.pdf)
+   - Studied distributed data processing using the MapReduce programming model
+
+10. [Power BI](power_bi.pdf)
+    - Mastered data visualization and business intelligence tools with Power BI
+
 ## 🔍 Skills Overview
 
 Here's a quick overview of the key skills and technologies covered by these certifications:
-- Cloud Computing
+
+- Cloud Computing (including Azure)
 - Project Management with Jira
 - Computer Networking
 - Problem-solving
@@ -46,10 +59,14 @@ Here's a quick overview of the key skills and technologies covered by these cert
 - DevOps (Jenkins)
 - Continuous Integration/Continuous Delivery (CI/CD)
 - Artificial Intelligence and Machine Learning
+- Go Programming Language
+- MapReduce and Distributed Computing
+- Data Visualization with Power BI
 
 ## 🚀 Future Goals
 
 I'm always looking to expand my knowledge and skills. Here are some areas I'm planning to explore next:
+
 - Advanced Cloud Security
 - Additional DevOps practices and tools
 - Blockchain Technology
@@ -58,6 +75,7 @@ I'm always looking to expand my knowledge and skills. Here are some areas I'm pl
 ## 📬 Connect With Me
 
 If you'd like to discuss any of these certifications or potential collaborations, feel free to reach out:
+
 - LinkedIn: [Shivangi Suyash](https://www.linkedin.com/in/shivangi-suyash-05a484259/)
 - GitHub: [Shivangi10-10](https://github.com/Shivangi10-10)
 - Portfolio: [shivangi-ivory.vercel.app](https://shivangi-ivory.vercel.app/)
